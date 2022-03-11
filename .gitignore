@@ -1,3 +1,8 @@
+# Ignore idea file
+target/
+*.iml
+Chapter*/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
